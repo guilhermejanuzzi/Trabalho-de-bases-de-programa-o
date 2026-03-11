@@ -26,11 +26,5 @@ Após finalizar a entrada, o programa realiza algumas operações e exibe os res
 - Linguagem **C**
 - Biblioteca padrão `stdio.h`
 
-## 🚀 Como Compilar e Executar
-
-### Compilar o programa
-
-```bash
-gcc programa.c -o programa
 ## Autor
 Guilherme Januzzi 
